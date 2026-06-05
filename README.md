@@ -1,4 +1,4 @@
-# 12-basic-python-games-for-beginners
+# 12-basic-python-games-for-beginner
 
  Welcome to 12-basic-python-games-for-beginners, my nostalgic treasure trove of classic games. Let's relive the fun and play together!
 
